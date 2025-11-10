@@ -1,0 +1,30 @@
+{
+  "name": "tcp-chat-server",
+  "version": "1.0.0",
+  "description": "A simple TCP chat server built with Node.js that supports multiple concurrent users, real-time messaging, and various chat commands",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test-client.js"
+  },
+  "keywords": [
+    "tcp",
+    "chat",
+    "socket",
+    "server",
+    "real-time",
+    "messaging",
+    "node.js",
+    "backend"
+  ],
+  "author": "Backend Assignment",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tcp-chat-server"
+  }
+}
