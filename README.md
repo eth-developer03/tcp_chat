@@ -2,6 +2,25 @@
 
 A simple, production-ready TCP chat server built with Node.js that supports multiple concurrent users, real-time messaging, and various chat commands.
 
+
+
+
+## 🎬 Screen Recording Demo
+
+**📹 Watch the demo:** [View Screen Recording](https://drive.google.com/file/d/1FCFAQbR_FJsVKpe7OqxQ6znnM4a4-p9S/view?usp=sharing)
+
+The video demonstrates:
+1. Starting the server
+2. Connecting multiple clients (2-3 users)
+3. Login flow with duplicate username handling
+4. Real-time message broadcasting
+5. WHO command listing users
+6. Private messaging (DM)
+7. User disconnect notifications
+8. Idle timeout demonstration
+
+
+
 ## 🚀 Features
 
 ### Core Features
@@ -361,19 +380,6 @@ The server provides detailed console logs:
 
 
 
-## 🎬 Screen Recording Demo
-
-**📹 Watch the demo:** [View Screen Recording](https://drive.google.com/file/d/1FCFAQbR_FJsVKpe7OqxQ6znnM4a4-p9S/view?usp=sharing)
-
-The video demonstrates:
-1. Starting the server
-2. Connecting multiple clients (2-3 users)
-3. Login flow with duplicate username handling
-4. Real-time message broadcasting
-5. WHO command listing users
-6. Private messaging (DM)
-7. User disconnect notifications
-8. Idle timeout demonstration
 
 
 
